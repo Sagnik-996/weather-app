@@ -2,9 +2,7 @@
 🌤 Weather App
 A modern weather web application that displays real-time weather data for any city.
 🚀 Live Demo
-👉 https://sagnik-996.github.io/weather-app/
-
-🖼 Preview
+https://sagnik-996.github.io/weather-app/
 
 ✨ Features
 	•	Search weather by city name
